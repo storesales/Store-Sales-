@@ -1,13 +1,13 @@
 # Store-Sales-
 Superstore data analysis
 # Project Idea
-Superstore is a data analysis and business intelligence project that aims to explore and visualize sales and profit performance across various product categories, regions, and customer segments The project focuses on creating interactive dashboards that provide valuable insights to support strategic decision-making
-It includes:
+Superstore is a data analysis and business intelligence project that aims to explore and visualize sales and profit performance across various product categories, regions, and customer segments The project focuses on creating interactive dashboards that provide valuable insights to support strategic decision-making<br>
+It includes:<br>
 • Cleaning and organizing large sales datasets to ensure accuracy and consistency<br>
-• Building dynamic dashboards using Power BI to track key performance indicators (KPIs)
-• Analyzing customer purchasing behavior, sales trends, and profitability by region and category
-• Presenting visual insights that highlight business opportunities and areas for improvement
-This project transforms raw data into clear visual stories that help businesses understand their performance, optimize operations, and make data-driven decisions
+• Building dynamic dashboards using Power BI to track key performance indicators (KPIs)<br>
+• Analyzing customer purchasing behavior, sales trends, and profitability by region and category<br>
+• Presenting visual insights that highlight business opportunities and areas for improvement<br>
+This project transforms raw data into clear visual stories that help businesses understand their performance, optimize operations, and make data-driven decisions<br>
 # Team members (The Insight Seekers)
 - Nada Elsayed (Team Leader)
 - Rana Mohammed
@@ -16,7 +16,7 @@ This project transforms raw data into clear visual stories that help businesses 
 - Maha Ali
 - Tabark Mahmoud
 # Work Plan 
-1. Research & Data Collection:
+1. Research & Data Collection:<br>
 • Define project objectives and KPIs
 • Gather Superstore dataset (sales, customers, categories, regions)
 • Analyze data structure and identify missing or inconsistent values

@@ -16,37 +16,37 @@ This project transforms raw data into clear visual stories that help businesses 
 - Maha Ali
 - Tabark Mahmoud
 # Work Plan 
-1. Research & Data Collection
-◦ Define project objectives and KPIs
-◦ Gather Superstore dataset (sales, customers, categories, regions)
-◦ Analyze data structure and identify missing or inconsistent values
-◦ Create initial data summary and insights report
+1. Research & Data Collection:
+• Define project objectives and KPIs
+• Gather Superstore dataset (sales, customers, categories, regions)
+• Analyze data structure and identify missing or inconsistent values
+• Create initial data summary and insights report
 
-2. Data Cleaning & Preparation
-◦ Handle missing values and outliers
-◦ Normalize and categorize data fields
-◦ Prepare data model for visualization
+2. Data Cleaning & Preparation:
+• Handle missing values and outliers
+• Normalize and categorize data fields
+• Prepare data model for visualization
 
-3. Dashboard Design & Visualization
-◦ Design charts and visuals (bar chart, map, pie chart, trend line)
-◦ Build dashboards using Power BI
+3. Dashboard Design & Visualization:
+• Design charts and visuals (bar chart, map, pie chart, trend line)
+• Build dashboards using Power BI
 
-4. Insights & Reporting
-◦ Identify top-selling and low-performing products
-◦ Analyze regional trends
-◦ Provide recommendations to improve business performance
-◦ Summarize insights in a clear narrative format
+4. Insights & Reporting:
+• Identify top-selling and low-performing products
+• Analyze regional trends
+• Provide recommendations to improve business performance
+• Summarize insights in a clear narrative format
 
-5. Review & Optimization
-◦ Review dashboards layout and data accuracy
-◦ Optimize visuals for clarity and readability
-◦ Test interactivity and performance
+5. Review & Optimization:
+• Review dashboards layout and data accuracy
+• Optimize visuals for clarity and readability
+• Test interactivity and performance
 
-6. Final Presentation
-◦ Prepare a report or presentation deck
-◦ Export dashboards visuals (PDF / PNG)
-◦ Create a Behance-style or GitHub project showcase
-◦ Present final insights and conclusion
+6. Final Presentation:
+• Prepare a report or presentation deck
+• Export dashboards visuals (PDF / PNG)
+• Create a Behance-style or GitHub project showcase
+• Present final insights and conclusion
 
 # Roles & Responsibilities
 1.	Data Collection & Cleaning

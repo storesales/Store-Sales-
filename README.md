@@ -17,53 +17,53 @@ This project transforms raw data into clear visual stories that help businesses 
 - Tabark Mahmoud
 # Work Plan 
 1. Research & Data Collection:<br>
-• Define project objectives and KPIs
-• Gather Superstore dataset (sales, customers, categories, regions)
-• Analyze data structure and identify missing or inconsistent values
-• Create initial data summary and insights report
+• Define project objectives and KPIs<br>
+• Gather Superstore dataset (sales, customers, categories, regions)<br>
+• Analyze data structure and identify missing or inconsistent values<br>
+• Create initial data summary and insights report<br>
 
-2. Data Cleaning & Preparation:
-• Handle missing values and outliers
-• Normalize and categorize data fields
-• Prepare data model for visualization
+2. Data Cleaning & Preparation:<br>
+• Handle missing values and outliers<br>
+• Normalize and categorize data fields<br>
+• Prepare data model for visualization<br>
 
-3. Dashboard Design & Visualization:
-• Design charts and visuals (bar chart, map, pie chart, trend line)
-• Build dashboards using Power BI
+3. Dashboard Design & Visualization:<br>
+• Design charts and visuals (bar chart, map, pie chart, trend line)<br>
+• Build dashboards using Power BI<br>
 
-4. Insights & Reporting:
-• Identify top-selling and low-performing products
-• Analyze regional trends
-• Provide recommendations to improve business performance
-• Summarize insights in a clear narrative format
+4. Insights & Reporting:<br>
+• Identify top-selling and low-performing products<br>
+• Analyze regional trends<br>
+• Provide recommendations to improve business performance<br>
+• Summarize insights in a clear narrative format<br>
 
-5. Review & Optimization:
-• Review dashboards layout and data accuracy
-• Optimize visuals for clarity and readability
-• Test interactivity and performance
+5. Review & Optimization:<br>
+• Review dashboards layout and data accuracy<br>
+• Optimize visuals for clarity and readability<br>
+• Test interactivity and performance<br>
 
-6. Final Presentation:
-• Prepare a report or presentation deck
-• Export dashboards visuals (PDF / PNG)
-• Create a Behance-style or GitHub project showcase
-• Present final insights and conclusion
+6. Final Presentation:<br>
+• Prepare a report or presentation deck<br>
+• Export dashboards visuals (PDF / PNG)<br>
+• Create a Behance-style or GitHub project showcase<br>
+• Present final insights and conclusion<br>
 
 # Roles & Responsibilities
-1.	Data Collection & Cleaning:
-o	Prepare the dataset, handle missing values, remove duplicates, and ensure data quality.
-o	Responsible: [Mariem Ehab – Rana Mohammed]
-2.	Exploratory Data Analysis (EDA):
-o	Generate summary statistics, identify patterns, and visualize relationships between variables.
-o	Responsible: [Maha Ali – Essra Saeed]
-3.	Data Visualization & Dashboard:
-o	Build dashboards/charts (using tools like Power BI, Tableau, or Python libraries) to present insights clearly.
-o	Responsible: [Nada Elsayed – Tabark Mahmoud]
-4.	Advanced Analysis:
-o	Identify key factors affecting sales & profit (e.g., regional analysis, product categories, customer segments).
-o	Responsible: [All Team]
-5.	Presentation:
-o	Prepare final presentation slides to showcase the project outcomes.
-o	Responsible: [All Team]
+1.	Data Collection & Cleaning:<br>
+o	Prepare the dataset, handle missing values, remove duplicates, and ensure data quality.<br>
+o	Responsible: [Mariem Ehab – Rana Mohammed]<br>
+2.	Exploratory Data Analysis (EDA):<br>
+o	Generate summary statistics, identify patterns, and visualize relationships between variables.<br>
+o	Responsible: [Maha Ali – Essra Saeed]<br>
+3.	Data Visualization & Dashboard:<br>
+o	Build dashboards/charts (using tools like Power BI, Tableau, or Python libraries) to present insights clearly.<br>
+o	Responsible: [Nada Elsayed – Tabark Mahmoud]<br>
+4.	Advanced Analysis:<br>
+o	Identify key factors affecting sales & profit (e.g., regional analysis, product categories, customer segments).<br>
+o	Responsible: [All Team]<br>
+5.	Presentation:<br>
+o	Prepare final presentation slides to showcase the project outcomes.<br>
+o	Responsible: [All Team]<br>
 # Instructor 
 Eng. Kareem Bakli
 # Project Files

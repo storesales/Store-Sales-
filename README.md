@@ -49,19 +49,19 @@ This project transforms raw data into clear visual stories that help businesses 
 • Present final insights and conclusion
 
 # Roles & Responsibilities
-1.	Data Collection & Cleaning
+1.	Data Collection & Cleaning:
 o	Prepare the dataset, handle missing values, remove duplicates, and ensure data quality.
 o	Responsible: [Mariem Ehab – Rana Mohammed]
-2.	Exploratory Data Analysis (EDA)
+2.	Exploratory Data Analysis (EDA):
 o	Generate summary statistics, identify patterns, and visualize relationships between variables.
 o	Responsible: [Maha Ali – Essra Saeed]
-3.	Data Visualization & Dashboard
+3.	Data Visualization & Dashboard:
 o	Build dashboards/charts (using tools like Power BI, Tableau, or Python libraries) to present insights clearly.
 o	Responsible: [Nada Elsayed – Tabark Mahmoud]
-4.	Advanced Analysis
+4.	Advanced Analysis:
 o	Identify key factors affecting sales & profit (e.g., regional analysis, product categories, customer segments).
 o	Responsible: [All Team]
-5.	Presentation
+5.	Presentation:
 o	Prepare final presentation slides to showcase the project outcomes.
 o	Responsible: [All Team]
 # Instructor 
@@ -74,5 +74,5 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 You are free to share and adapt the material, but you must give appropriate credit to the creators:  
 The Insight Seekers Team – StoreSales Project (2025)  
 Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Recommendations to improve sales strategy and profitability.
+
 

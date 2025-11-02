@@ -8,7 +8,7 @@ It includes:
 • Analyzing customer purchasing behavior, sales trends, and profitability by region and category
 • Presenting visual insights that highlight business opportunities and areas for improvement
 This project transforms raw data into clear visual stories that help businesses understand their performance, optimize operations, and make data-driven decisions
-# Team members 
+# Team members (The Insight Seekers)
 - Nada Elsayed (Team Leader)
 - Rana Mohammed
 - Mariem Ehab
@@ -29,7 +29,7 @@ This project transforms raw data into clear visual stories that help businesses 
 
 3. Dashboard Design & Visualization
 ◦ Design charts and visuals (bar chart, map, pie chart, trend line)
-◦ Build dashboardس using Power BI
+◦ Build dashboards using Power BI
 
 4. Insights & Reporting
 ◦ Identify top-selling and low-performing products
@@ -38,13 +38,13 @@ This project transforms raw data into clear visual stories that help businesses 
 ◦ Summarize insights in a clear narrative format
 
 5. Review & Optimization
-◦ Review dashboardس layout and data accuracy
+◦ Review dashboards layout and data accuracy
 ◦ Optimize visuals for clarity and readability
 ◦ Test interactivity and performance
 
 6. Final Presentation
 ◦ Prepare a report or presentation deck
-◦ Export dashboardس visuals (PDF / PNG)
+◦ Export dashboards visuals (PDF / PNG)
 ◦ Create a Behance-style or GitHub project showcase
 ◦ Present final insights and conclusion
 
@@ -70,6 +70,9 @@ Eng. Kareem Bakli
 You can find the full project files here:
 https://drive.google.com/drive/folders/1T40QkFoHIqE0xsNg9EYn0msxQ2-dL-6n?usp=sharing
 # License
-
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+You are free to share and adapt the material, but you must give appropriate credit to the creators:  
+The Insight Seekers Team – StoreSales Project (2025)  
+Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Recommendations to improve sales strategy and profitability.
 
